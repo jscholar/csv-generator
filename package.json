@@ -1,0 +1,19 @@
+{
+  "name": "csv-generator",
+  "version": "1.0.0",
+  "description": "Generate csv reports from JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jscholar/csv-generator.git"
+  },
+  "author": "Jin Cai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jscholar/csv-generator/issues"
+  },
+  "homepage": "https://github.com/jscholar/csv-generator#readme"
+}
